@@ -1,5 +1,5 @@
 import sklearn
-import plotpy
+import plotly
 import streamlit as st
 st.title('Giai phuong trinh bac 1')
 a=st.number_input("tham so a")
