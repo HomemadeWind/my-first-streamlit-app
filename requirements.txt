@@ -1,3 +1,2 @@
-import scikit-learn
-import plotpy
-import sklearn
+scikit-learn
+plotpy
